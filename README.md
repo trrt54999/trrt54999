@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Daniel 👋
 
-<!--
-**trrt54999/trrt54999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student
+🛠️ Developing with C# and .NET  
+💡 Interested in AI and Unity
 
-Here are some ideas to get you started:
+### 🧰 My Tech Stack:
+- C#, .NET
+- Git, GitHub
+- HTML
+- Unity3D
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+<a href="https://t.me/Daniel_Von_Manstein" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="40" height="50" />
+</a>
+
+- [Email](danielbatko58@gmail.com)
+
+### 🚀 Goals for 2025:
+- Develop apps with **.NET Core**.
+
+## 💡 About:
+- Using GitHub for learning and sharing knowledge.
+- Open for collaboration and suggestions.
