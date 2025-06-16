@@ -17,8 +17,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" width="40" height="50" />
 </a>
 
-- [Email](danielbatko58@gmail.com)
-
 ### 🚀 Goals for 2025:
 - Develop apps with **.NET Core**.
 
