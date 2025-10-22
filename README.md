@@ -12,6 +12,8 @@
 - Unity3D
 - Godot
 - Python
+- C (on basic level)
+- C++ (on basic level)
 
 ### 📫 How to reach me:
 <a href="https://t.me/Daniel_Von_Manstein" target="_blank">
