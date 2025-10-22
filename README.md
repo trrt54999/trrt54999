@@ -22,7 +22,7 @@
 
 ### 🚀 Goals for 2025:
 - Develop apps with **.NET Core**.
-- Learn C/C++ on basic level
+- Learn C/C++ on midle level
 
 ## 💡 About:
 - Using GitHub for learning and sharing knowledge.
