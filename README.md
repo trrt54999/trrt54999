@@ -1,13 +1,13 @@
-# Hello! I'm Daniel 👋
+# Hello World! 👋
 
-🎓 Student
-🛠️ Developing with C# and .NET  
-💡 Interested in AI and Unity
+🛠️ Developing
+💡 Interested in AI
 
 ### 🧰 My Tech Stack:
 - C#, .NET
 - Git, GitHub
 - HTML
+- CSS
 - MarkDown
 - Unity3D
 - Godot
@@ -22,9 +22,7 @@
 </a>
 
 ### 🚀 Goals for 2025:
-- Develop apps with **.NET Core**.
 - Learn C/C++ on midle level
 
 ## 💡 About:
-- Using GitHub for learning and sharing knowledge.
 - Open for collaboration and suggestions.
