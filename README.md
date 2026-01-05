@@ -16,8 +16,5 @@
 - C (on basic level)
 - C++ (on basic level)
 
-### 🚀 Goals for 2025:
-- Learn C/C++ on midle level
-
 ## 💡 About:
 - Open for collaboration and suggestions.
