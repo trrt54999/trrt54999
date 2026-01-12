@@ -16,5 +16,10 @@
 - C (on basic level)
 - C++ (on basic level)
 
+## :rocket: Goals for 2026:
+- Learn Docker
+- Learn Spring && SpringBoot
+- Learn Algoritsm on good level
+
 ## 💡 About:
 - Open for collaboration and suggestions.
