@@ -20,6 +20,7 @@
 - Learn Docker
 - Learn Spring && SpringBoot
 - Learn Algoritsm on good level
+- Learn Kafka
 
 ## 💡 About:
 - Open for collaboration and suggestions.
